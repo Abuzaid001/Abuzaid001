@@ -5,10 +5,10 @@ Hi!I'm Abdallah-also known online as **Abu Zaid**, I'm an aspiring frontend deve
 
 #🔭 I’m currently working on :
 
--Building simple,responsive websites with HTML and CSS
--Learning Javascript for interactive frontend functionality
+-Building simple,responsive websites with HTML and CSS.
+-Learning Javascript for interactive frontend functionality.
 -Exploring Git and Github for version control.
--Learning more on new sites that offers certificate.(certificate coming **soon**)
+-Learning more on new sites that offers certificate.(certificate coming **soon**).
 
 #😎Skills ........
 -HTML(almost mastered✔)
