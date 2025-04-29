@@ -1,7 +1,7 @@
-## Hi there,I'm Abdallah Salihu Ibrahim
+## Hi there,I'm Ibrahim Abdallah Salihu 
 **Aspiring frontend developer¬Btech softwware engineering,FUT Minna**
 
-Hi!I'm Abdallah-also known online as **Abu Zaid**, I'm an aspiring frontend developer currently studying Software engineering at FUT Minna I've mastered **HTML** and am working on **CSS** and **javascript**  to build beautiful,responsive website.
+Hi! I'm Abdallah-also known online as **Abu Zaid**, I'm an aspiring frontend developer currently studying Software engineering at FUT Minna I've mastered **HTML** and am working on **CSS** and **javascript**  to build beautiful,responsive website.
 
 #🔭 I’m currently working on :
 
