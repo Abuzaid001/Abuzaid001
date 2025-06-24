@@ -12,7 +12,7 @@ Hi! I'm Abdallah-also known online as **Abu Zaid**, I'm an aspiring frontend dev
 
 #😎Skills ........
 -HTML(almost mastered✔)
--CSS(curremtly Learning)
+-CSS(currently Learning)
 -Javascirpt (next focus)
 -Git & GitHub basics
 
